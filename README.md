@@ -25,6 +25,8 @@ The documentation transforms this historic system from an intimidating black box
 
 This repo honors the developers who built DSF and supports those who will learn from it. The system served Norway's entire population reliably for over half a century, **it deserves comprehensive documentation!**
 
+The maintainer of this repo take no personal responsibility on the use of, or any errors herein! 
+
 ---
 
 ## 📚 Documentation / Dokumentasjon
