@@ -29,7 +29,7 @@ This repo honors the developers who built DSF and supports those who will learn 
 
 ## 📚 Documentation / Dokumentasjon
 
-This repository now includes comprehensive documentation for understanding, maintaining, and modernizing the DSF system:
+This repository now includes comprehensive documentation for understanding, maintaining, and (as educational excercise) modernizing the DSF system:
 
 ### Getting Started
 - **[Architecture Overview](docs/ARCHITECTURE.md)** - High-level system design and technology stack
