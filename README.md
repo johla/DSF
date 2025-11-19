@@ -14,10 +14,10 @@ I initiated this via a github Coding Agent task to document this extraordinary a
 - Sustained over 5 decades through technological change
 - Served an entire nation reliably and accurately
 - Adapted continuously to legislative and policy changes
-- Successfully replaced by modern systems without disruption
+- Was successfully replaced by modern systems without disruption
 
 This documentation preserves the knowledge and lessons from this remarkable system for future generations. 
-The documentation transforms this historic system from an intimidating black box into an understandable, maintainable codebase. Future developers can now:
+The documentation transforms this historic system from an intimidating black box into an understandable, "maintainable" codebase. Future developers can now:
 
 - Understand the system architecture quickly
 - Navigate 717 programs with confidence
