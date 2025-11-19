@@ -9,6 +9,23 @@ Da ble også [DSF slått av](https://memu.no/kort-fortalt/pensjonert-it-dinosaur
 Systemet er skrevet i [PL/I](https://en.wikipedia.org/wiki/PL/I).
 
 ---
+## Comment 
+I initiated this via a github Coding Agent task to document this extraordinary achievement in software engineering which;
+- Sustained over 5 decades through technological change
+- Served an entire nation reliably and accurately
+- Adapted continuously to legislative and policy changes
+- Successfully replaced by modern systems without disruption
+
+This documentation preserves the knowledge and lessons from this remarkable system for future generations. 
+The documentation transforms this historic system from an intimidating black box into an understandable, maintainable codebase. Future developers can now:
+
+- Understand the system architecture quickly
+- Navigate 717 programs with confidence
+- Learn from a successfully maintained 51-year system
+
+This repo honors the developers who built DSF and supports those who will learn from it. The system served Norway's entire population reliably for over half a century, **it deserves comprehensive documentation!**
+
+---
 
 ## 📚 Documentation / Dokumentasjon
 
@@ -22,9 +39,6 @@ This repository now includes comprehensive documentation for understanding, main
 ### System Structure
 - **[Module Structure](docs/MODULE_STRUCTURE.md)** - Detailed breakdown of all 700+ programs organized by function
 - **[Visual Diagrams](docs/DIAGRAMS.md)** - Architecture diagrams, data flows, and module relationships
-
-### Modernization
-- **[Refactoring Guide](docs/REFACTORING_GUIDE.md)** - Strategic recommendations for modernizing the system
 
 ## 🏗️ System Overview
 
@@ -103,7 +117,7 @@ This is a historical archive. The system is no longer in production. However:
 
 - **Documentation improvements** are welcome
 - **Analysis and insights** help understand legacy systems
-- **Modernization case studies** based on DSF are valuable
+- **Modernization case studies** based on DSF are valuable for academic purposes, I suggest make use of Github Coding Agents and modern practises!
 - **Educational use** - learn from 51 years of software evolution
 
 ## 📄 License
@@ -124,4 +138,4 @@ See [LICENSE.md](LICENSE.md) for license information.
 
 ---
 
-*Documentation created with empathy for future developers who will study and learn from this historic system. 🇳🇴*
+*Documentation created with empathy for future developers who will study and learn from this historic system.*
